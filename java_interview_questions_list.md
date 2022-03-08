@@ -5,8 +5,11 @@
 - [ ] Difference between final, finally and finalize.
 - [ ] What is String pool.
 - [ ] Is java 100% object oriented language.
+<<<<<<< HEAD
 - [ ] How return handle in try catch and final.  
 - [ ] What is the difference between equals() and == in Java?
 - [ ] When can you use the super keyword?
 - [ ] How is the creation of a String using new() different from that of a literal?  
 - [ ]  Why Java Strings are immutable in nature? 
+=======
+>>>>>>> c7bcd749135977655d721cc498f83a62d2c04bfc
